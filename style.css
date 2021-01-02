@@ -75,7 +75,7 @@ section {
 }
 
 .top {
-  background-color: var(--neutral-light-gray);
+  background-color: white;
   grid-area: top;
   line-height: 1.5em;
   color: var(--neutral-grayish-blue);
